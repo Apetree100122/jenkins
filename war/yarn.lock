@@ -3784,7 +3784,7 @@ __metadata:
 
 "fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>":
   version: 2.3.2
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -4035,10 +4035,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hotkeys-js@npm:3.12.0":
-  version: 3.12.0
-  resolution: "hotkeys-js@npm:3.12.0"
-  checksum: b359d32cf926a3b4723ee4cd0978639dbad0b0b33e4d0ff75861906ea54d19c9ff2aa7cffde7fdb1bf2718a7eab2bfa326edb3974f5e4182feec5591cb23632d
+"hotkeys-js@npm:3.12.2":
+  version: 3.12.2
+  resolution: "hotkeys-js@npm:3.12.2"
+  checksum: 43e41b4844b8ffc059a39177c983451e43f9fb8c523efd9075d37c19f6427397c5eb5a2509d251ac8cce8b0a165e604c555d10e1ff97d80695df5f6859af9f1b
   languageName: node
   linkType: hard
 
@@ -4359,7 +4359,7 @@ __metadata:
     eslint-config-prettier: 9.0.0
     handlebars: 4.7.8
     handlebars-loader: 1.7.3
-    hotkeys-js: 3.12.0
+    hotkeys-js: 3.12.2
     jquery: 3.7.1
     lodash: 4.17.21
     mini-css-extract-plugin: 2.7.6
@@ -6310,7 +6310,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>, resolve@patch:resolve@^1.20.0#~builtin<compat/resolve>":
   version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=07638b"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
